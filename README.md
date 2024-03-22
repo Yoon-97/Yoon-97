@@ -49,14 +49,8 @@
 - YOLO알고리즘과 Unity 3D 엔진을 활용한 시각장애인용 실내 음성 안내 내비게이션(19.09 - 19.12)
 
     
-    
-    
 
 
-## About GitHub
-<div>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yoon-97&layout=compact)](https://github.com/Yoon-97/github-readme-stats)
-</div>
-<div>
-  ![Yoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yoon-97&show_icons=true&theme=radical)
-</div>
+## GitHub Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yoon-97&layout=compact)](https://github.com/Yoon-97/github-readme-stats)
+
