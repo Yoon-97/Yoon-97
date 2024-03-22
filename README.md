@@ -5,25 +5,6 @@
 
 
 
-## Tech Stack I used
-<div style="display:flex; flex-direction:column; align-items:flex-start;">
-    <!-- Frontend -->
-    <p><strong>Frontend</strong></p>
-    <div>
-        <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
-        <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> 
-        <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
-        <img src="https://img.shields.io/badge/Ajax-00758F?style=flat-square&logo=ajax&logoColor=white">
-    </div>
-    <!-- Backend -->
-    <p><strong>Backend</strong></p>
-    <div>
-        <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"> 
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> 
-    </div>
-
-
 ## 🧑🏻‍💻 About Me
 - 🖥️ Major : Software
 - 🧲 Interest : Backend Developer
@@ -32,10 +13,10 @@
 <br>
 <br>
 
-## 🖥️ Tech Stack
+## 🛠️ Tech I Used
 - Programming language : ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black) ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=CSS3&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white)
-- Frontend : ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=white) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white)
-- Backend : ![Spring](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white) ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=Spring&logoColor=white)
+- Frontend : ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=white)
+- Backend :![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=Spring&logoColor=white)
 
 
 
