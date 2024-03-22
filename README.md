@@ -1,7 +1,7 @@
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ade3f0&height=300&section=header&text=Welcome%20to%20Yoon's%20Github!&animation=fadeIn&fontSize=50" />
-</div>
+<!-- 헤더 -->
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Welcome%20To&desc=Yoon's%20GitHub&fontSize=60&rotate=14&fontAlignY=25&fontAlign=75&descAlignY=43&descAlign=80&&animation=twinkling)
+
 
 <br>
 
