@@ -1,4 +1,3 @@
-### Hi there 👋
 
 
 <div align="center">
@@ -56,6 +55,9 @@
 
 
 ## About GitHub
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yoon-97&layout=compact)](https://github.com/Yoon-97/github-readme-stats)
-![Yoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yoon-97&show_icons=true&theme=radical)
+<div>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yoon-97&layout=compact)](https://github.com/Yoon-97/github-readme-stats)
+</div>
+<div>
+  ![Yoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yoon-97&show_icons=true&theme=radical)
+</div>
