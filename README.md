@@ -24,9 +24,6 @@
         <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
     </div>
-    
-    
-![header](https://capsule-render.vercel.app/api?type=waving&color=FFFF99&height=300&section=header&text=Hi👋%20I'm%20seohee&fontSize=50&animation=fadeIn&fontAlignY=30&desc=🐥Consistently%20Growing%20Developer🤓&descAlignY=51&descAlign=50)
 
 
 ## 🙋‍♀️ About Me
@@ -60,5 +57,5 @@
 
 ## About GitHub
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seohee99&layout=compact)](https://github.com/Yoon-97/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yoon-97&layout=compact)](https://github.com/Yoon-97/github-readme-stats)
 ![Yoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yoon-97&show_icons=true&theme=radical)
