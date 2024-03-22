@@ -1,49 +1,64 @@
 ### Hi there 👋
 
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=5D75F9&height=300&section=header&text=Welcome%20to%20Yoon's%20Github!&animation=fadeIn&fontSize=50" />
+</div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yoon-97&show_icons=true&theme=radical)
+
+
+## Tech Stack I used
+<div style="display:flex; flex-direction:column; align-items:flex-start;">
+    <!-- Frontend -->
+    <p><strong>Frontend</strong></p>
+    <div>
+        <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
+        <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> 
+        <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
+        <img src="https://img.shields.io/badge/Ajax-00758F?style=flat-square&logo=ajax&logoColor=white">
+    </div>
+    <!-- Backend -->
+    <p><strong>Backend</strong></p>
+    <div>
+        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+    </div>
+    
+    
+![header](https://capsule-render.vercel.app/api?type=waving&color=FFFF99&height=300&section=header&text=Hi👋%20I'm%20seohee&fontSize=50&animation=fadeIn&fontAlignY=30&desc=🐥Consistently%20Growing%20Developer🤓&descAlignY=51&descAlign=50)
+
+
+## 🙋‍♀️ About Me
+- 🔭 Major : Software
+- 🌱 Interest : Backend Developer
+- 👩‍💻 The developer I want to be : A Needed Developer & Desired To Work With💁‍♀️
+
+<br>
+<br>
+
+## 🖥️ Tech Stack
+- Programming language : ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black) ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=CSS3&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white)
+- Frontend : ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=white) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white)
+- Backend : ![Spring](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white) ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=Spring&logoColor=white)
 
 
 
-<p>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
-  <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
-  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
-  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img alt="ReactiveX" src="https://img.shields.io/badge/-RxJs-B7178C?style=flat-square&logo=reactivex&logoColor=white" />
-  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
-  <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
-  <img alt="Rollup" src="https://img.shields.io/badge/-Rollup-EC4A3F?style=flat-square&logo=rollup.js&logoColor=white" />
-  <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
-  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-</p>
-<!--
-**Yoon-97/Yoon-97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
+<br>
+    
+## Experience
+- 신한투자증권 프로디지털 아카데미 4기(24.03 - )
+- 유아전용 인공지능 챗봇 "아이행봇해"(23.03 - 23.09)
+- 서울시 사건·사고 실시간 모아보기 웹서비스 "삐용삐용"(22.09 - 22.12)
+- YOLO알고리즘과 Unity 3D 엔진을 활용한 시각장애인용 실내 음성 안내 내비게이션(19.09 - 19.12)
 
-Here are some ideas to get you started:
+    
+    
+    
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## About GitHub
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seohee99&layout=compact)](https://github.com/Yoon-97/github-readme-stats)
+![Yoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yoon-97&show_icons=true&theme=radical)
