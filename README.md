@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=5D75F9&height=300&section=header&text=Welcome%20to%20Yoon's%20Github!&animation=fadeIn&fontSize=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ade3f0&height=300&section=header&text=Welcome%20to%20Yoon's%20Github!&animation=fadeIn&fontSize=50" />
 </div>
 
 
@@ -21,15 +21,15 @@
     <!-- Backend -->
     <p><strong>Backend</strong></p>
     <div>
-        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> 
     </div>
 
 
-## 🙋‍♀️ About Me
-- 🔭 Major : Software
-- 🌱 Interest : Backend Developer
-- 👩‍💻 The developer I want to be : A Needed Developer & Desired To Work With💁‍♀️
+## 🧑🏻‍💻 About Me
+- 🖥️ Major : Software
+- 🧲 Interest : Backend Developer
+- 🔮 The developer I want to be : Don't be Fool Stack Developer, be a Full Stack Developer.
 
 <br>
 <br>
