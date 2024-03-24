@@ -6,7 +6,7 @@
 
 ## 🧑🏻‍💻 About Me
 - 🖥️ **Major** : Software
-- 🧲 **Interest** : Backend Developer
+- 🚀 **Interest** : Backend Developer
 - 🔮 **The developer I want to be** : Don't be Fool Stack Developer, be a Full Stack Developer.
 - 📜 **Final vocabulary** : Responsibility
 <br>
