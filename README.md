@@ -8,7 +8,6 @@
 - 🖥️ **Major** : Software
 - 🧲 **Interest** : Backend Developer
 - 🔮 **The developer I want to be** : Don't be Fool Stack Developer, be a Full Stack Developer.
-- 나를 한마디로 표현하자면...
 
 <br>
 
