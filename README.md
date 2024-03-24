@@ -11,24 +11,18 @@
 - 나를 한마디로 표현하자면...
 
 <br>
-<br>
 
 
 ## 🛠️ Tech I Used
 ### Programming language
-<br>
 <img src="https://skillicons.dev/icons?i=js,java,css,python,c" />
 
 ### Frontend
-<br>
 <img src="https://skillicons.dev/icons?i=react" />
 
 ### Backend
-<br>
 <img src="https://skillicons.dev/icons?i=spring" />
 
-
-<br>
 <br>
 
     
@@ -40,9 +34,6 @@
 - 숭실대학교 소프트웨어학부 재학(18.02 ~ 24.02)
 
 
-
-
-<br>
 <br>
 
     
@@ -50,7 +41,6 @@
 
 [![Yoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yoon-97&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/Yoon-97/github-readme-stats)
 
-<br>
 <br>
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
