@@ -17,10 +17,11 @@
 <img src="https://skillicons.dev/icons?i=js,java,css,python,c" />
 
 ### Frontend
-<img src="https://skillicons.dev/icons?i=react" />
+<img src="https://skillicons.dev/icons?i=react,vite,nginx,tailwind,figma" />
 
 ### Backend
-<img src="https://skillicons.dev/icons?i=spring" />
+<img src="https://skillicons.dev/icons?i=spring,docker,rabbitmq,aws,mysql,redis" />
+
 
 <br>
 
@@ -31,7 +32,7 @@
 - 서울시 사건·사고 실시간 모아보기 웹서비스 "삐용삐용"(22.09 ~ 22.12) https://github.com/bbiyongbbiyong
 - YOLO알고리즘과 Unity 3D 엔진을 활용한 시각장애인용 실내 음성 안내 내비게이션(19.09 ~ 19.12)
 - 2019 청사진 아이디어톤(19.06)
-- 숭실대학교 소프트웨어학부 재학(18.02 ~ 24.02)
+- OO대학교 소프트웨어학부 재학(18.02 ~ 24.02)
 
 
 <br>
