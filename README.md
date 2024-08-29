@@ -17,10 +17,10 @@
 <img src="https://skillicons.dev/icons?i=js,java,css,python,c" />
 
 ### Frontend
-<img src="https://skillicons.dev/icons?i=react,vite,nginx,tailwind,figma" />
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,figma" />
 
 ### Backend
-<img src="https://skillicons.dev/icons?i=spring,docker,rabbitmq,aws,mysql,redis" />
+<img src="https://skillicons.dev/icons?i=spring,docker,nginx,rabbitmq,aws,mysql,redis" />
 
 
 <br>
