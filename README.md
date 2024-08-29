@@ -27,6 +27,7 @@
 
     
 ## 💡Experience
+- Vite, Express 기반 모의투자 주식 게임 "모여봐요 주식의 숲" 개발 https://github.com/PDA-4-1
 - 신한투자증권 프로 디지털 아카데미 4기(24.03 ~ )
 - 유아전용 인공지능 챗봇 "아이행봇해"(23.03 ~ 23.09) https://github.com/iHangbot
 - 서울시 사건·사고 실시간 모아보기 웹서비스 "삐용삐용"(22.09 ~ 22.12) https://github.com/bbiyongbbiyong
