@@ -44,7 +44,6 @@
   <img src=https://github.com/user-attachments/assets/d6726c4a-b081-47fd-8702-c1ce2015aef2 alt="Image 1" width="45%" />
   <img src=https://github.com/user-attachments/assets/1de45b8d-a9f1-4c61-8b0d-f2ba189a5051 alt="Image 2" width="45%" />
 </div>
-<br>
 
 #### 기술스택
 Vite, tailwind CSS, redux, Express, AWS, Docker, Nginx
