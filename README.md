@@ -37,7 +37,7 @@
 
 <br>
 
-## 📑 프로젝트 
+## 📑 프로젝트 요약
 
 ### Vite, Express 기반 모의투자 주식 게임 "모여봐요 주식의 숲"
 <div style="display: flex; justify-content: space-between;">
