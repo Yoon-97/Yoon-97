@@ -5,14 +5,13 @@
 
 
 ## 🧑🏻‍💻 About Me
-- 🖥️ **Major** : Software
-- 🚀 **Interest** : Backend Developer
-- 🔮 **The developer I want to be** : Don't be Fool Stack Developer, be a Full Stack Developer.
-- 📜 **Final vocabulary** : Responsibility
+- 🖥️ **전공** : Software
+- 🚀 **포지션** : Backend/Infra Developer
+- 🔮 **팀을 위한 개발자가 되자
 <br>
 
 
-## 🛠️ Tech I Used
+## 🛠️ 겪어본 기술 스택
 ### Programming language
 <img src="https://skillicons.dev/icons?i=js,java,css,python,c" />
 
@@ -26,9 +25,9 @@
 <br>
 
     
-## 💡Experience
+## 💡경험
 - Vite, Express 기반 모의투자 주식 게임 "모여봐요 주식의 숲" 개발 https://github.com/PDA-4-1
-- 신한투자증권 프로 디지털 아카데미 4기(24.03 ~ )
+- S투자증권 프로 디지털 아카데미 4기(24.03 ~ )
 - 유아전용 인공지능 챗봇 "아이행봇해"(23.03 ~ 23.09) https://github.com/iHangbot
 - 서울시 사건·사고 실시간 모아보기 웹서비스 "삐용삐용"(22.09 ~ 22.12) https://github.com/bbiyongbbiyong
 - YOLO알고리즘과 Unity 3D 엔진을 활용한 시각장애인용 실내 음성 안내 내비게이션(19.09 ~ 19.12)
@@ -37,6 +36,28 @@
 
 
 <br>
+
+## 📑 프로젝트 
+
+### Vite, Express 기반 모의투자 주식 게임 "모여봐요 주식의 숲"
+<div style="display: flex; justify-content: space-between;">
+  <img src=https://github.com/user-attachments/assets/d6726c4a-b081-47fd-8702-c1ce2015aef2 alt="Image 1" width="45%" />
+  <img src=https://github.com/user-attachments/assets/1de45b8d-a9f1-4c61-8b0d-f2ba189a5051 alt="Image 2" width="45%" />
+</div>
+<br>
+
+#### 기술스택
+Vite, tailwind CSS, redux, Express, AWS, Docker, Nginx
+#### 역할
+- 인프라 구성 및 풀스택 개발
+- AWS EC2, RDS, S3와 Nginx를 통한 24시간 서비스 구동
+- Docker와 Github Action을 통한 CI/CD 구축
+- API 서버 개발
+- Three.js 및 Vite를 통한 컴포넌트 개발
+
+
+<br>
+
 
     
 ## GitHub Stats
