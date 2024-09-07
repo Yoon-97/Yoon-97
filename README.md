@@ -7,7 +7,7 @@
 ## 🧑🏻‍💻 About Me
 - 🖥️ **전공** : Software
 - 🚀 **포지션** : Backend/Infra Developer
-- 🔮 **팀을 위한 개발자가 되자
+- 🔮 **팀을 위한 개발자가 되자**
 <br>
 
 
